@@ -1,4 +1,4 @@
-# Ames-Housing-Project
+# Ames Housing Project
 
 ## Executive Summary
 
